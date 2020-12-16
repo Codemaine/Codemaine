@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
 ![](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=000)
-![](https://img.shields.io/badge/-React%20Native-%2361DAFB?style=flat-square&logo=React%20Native&logoColor=000)
+![](https://img.shields.io/badge/-React%20Native-%2361DAFB?style=flat-square&logo=React&logoColor=000)
 ![](https://img.shields.io/badge/-Node.js-%62fc03?style=flat-square&logo=Node.js&logoColor=fff)
 
 
