@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
 ![](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=000)
+![](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=brightgreen)
+
 
 <p align="left">
   <img height="230" src="https://github-readme-stats.vercel.app/api?username=Codemaine&show_icons=true&include_all_commits=true" />
